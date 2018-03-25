@@ -39,7 +39,7 @@ In addition, a VR application was developed. This application allowed the user t
 </ul>
 
 ## Media
-**Video: Public Brewing - First AR Extension**
+**[Video: Public Brewing - First AR Extension](http://img.youtube.com/vi/mPqKV0Y3_uk/0.jpg)**
 
 [![Video: Public Brewing - First AR Extension](http://img.youtube.com/vi/mPqKV0Y3_uk/0.jpg)](https://www.youtube.com/embed/mPqKV0Y3_uk)
 

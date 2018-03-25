@@ -16,7 +16,7 @@ Using a trampoline as a natural 3D user interface with a Head- Mounted Display f
   * Interfaces to interesting parameters for developers (virtual jump height mapping, average jump duration, current jump height, interaction gestures, forces, velocities, etc.)
 
 ## Media
-**Video: Superjump - Behind the scenes**
+**[Video: Superjump - Behind the scenes](https://www.youtube.com/embed/KEtzEuRBNKI)**
 
 [![Superjump behind the scenes video](http://img.youtube.com/vi/KEtzEuRBNKI/0.jpg)](https://www.youtube.com/embed/KEtzEuRBNKI)
 
@@ -36,6 +36,6 @@ Using a trampoline as a natural 3D user interface with a Head- Mounted Display f
 
 ![EndlessRunner: Virtual avatar controlled with Inverse Kinematics](ingame.jpg)
 
-**Video: Spacejump VR**
+**[Video: Spacejump VR](https://player.vimeo.com/video/200660727?color=ffff00&title=0&byline=0&portrait=0)**
 
 [![Video: Spacejump VR](evaluation-impression.jpg)](https://player.vimeo.com/video/200660727?color=ffff00&title=0&byline=0&portrait=0)
