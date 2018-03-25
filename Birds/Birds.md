@@ -1,4 +1,4 @@
-# An interactive, chirping media installation
+# Birds - An interactive, chirping media installation
 ## Summary
 The goal of this project was to create an artistic and engaging media installation. We built a wooden frame for the installation and added a screen to it.
 This screen offers a view into a computer graphic world: It displays a bright and colorful polygon landscape with mountains, trees, a river and a rope in front of the scenery. <br/>
