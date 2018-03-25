@@ -25,9 +25,9 @@
 
 [![Public Brewing](projectBrewingthumb.jpg)](PublicBrewing/PublicBrewing.md)
 
-**Zero Gravity - A Virtual Reality experience in air and water**
+**[Zero Gravity - A Virtual Reality experience in air and water](ZeroGravity/ZeroGravity.md)**
 
-![Zero Gravity](projectZeroGravitythumb.jpg)
+[![Zero Gravity](projectZeroGravitythumb.jpg)](ZeroGravity/ZeroGravity.md)
 
 **Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism**
 
