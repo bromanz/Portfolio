@@ -4,19 +4,21 @@ This project addresses the challenge of empathizing with audiovisual sense impai
 
 ## Achievements
 * Tested the system informally with experts and non-expert users. They qualified it as useful for enhancing the empathy for audiovisual sense impairments, motivating a further development of this idea.
-* Project was published in [Proceedings of the 7th Augmented Human International Conference 2016](http://dl.acm.org/citation.cfm?id=2875226) (sponsored by Google) as one out of 21 selected full papers in 138 submissions (Paper Acceptance Rate: 15%).
-* Presented in a local mall in Duesseldorf in cooperation with the Deutsches Rotes Kreuz, which is part of the International Federation of Red Cross and Red Crescent Societies, the biggest humanitarian organization in the world.
-* [Raised few interests in public media](##furtherinformation).
+* [Raised few interests in public media](#further-information).
 * One of the first projects to modify a modern HMD with external cameras.
+* Project was published in [Proceedings of the 7th Augmented Human International Conference 2016](http://dl.acm.org/citation.cfm?id=2875226) (sponsored by Google) as one out of 21 selected full papers in 138 submissions (Paper Acceptance Rate: 15%).
+* Presented in a local mall in Duesseldorf in cooperation with the [Deutsches Rotes Kreuz](https://www.drk.de/en/), which is part of the [International Federation of Red Cross and Red Crescent Societies](https://en.wikipedia.org/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies), the biggest humanitarian organization in the world.
 
 ## My responsibilities
-* I did this work as part of my bachelor thesis, so basically everything except the audio part in the paper
+* I did this work as part of my bachelor thesis, so basically everything except the audio part in the paper (I used a different audio system in my thesis).
 
-## [Further information]
-* [(Website): Augmented Human Conference](http://www.augmented-human.com/)
-* [(ACM Digital Library): Augmented Human 2016 International Conference – Empathizing audiovisual sense impairments – Interactive real-time illustration of diminished sense perception](http://dl.acm.org/citation.cfm?id=2875226)
-* [(German Website): HS Düsseldorf – Wie fühlt man sich im Alter?](http://medien.hs-duesseldorf.de/personen/geiger/alterssimulation)
-* [(German Newspaper): Der Westen – Wie fühlt man sich im Alter?](http://www.derwesten.de/nrz/staedte/duesseldorf/so-fuehlt-man-sich-im-alter-aimp-id10307382.html)
+## Further information
+<ul>
+	<li><a href="http://www.augmented-human.com/" target="_blank">&#8594; (Website): Augmented Human Conference</a></li>
+	<li><a href="http://dl.acm.org/citation.cfm?id=2875226" target="_blank">&#8594; (ACM Digital Library): Augmented Human 2016 International Conference – Empathizing audiovisual sense impairments – Interactive real-time illustration of diminished sense perception</a></li>
+	<li><a href="http://medien.hs-duesseldorf.de/personen/geiger/alterssimulation" target="_blank">&#8594; (German Website): HS Düsseldorf – Wie fühlt man sich im Alter?</a></li>
+	<li><a href="http://www.derwesten.de/nrz/staedte/duesseldorf/so-fuehlt-man-sich-im-alter-aimp-id10307382.html" target="_blank">&#8594; (German Newspaper): Der Westen – Wie fühlt man sich im Alter?</a></li>
+</ul>
 
 ## Media
 **Showing the prototype in public with the DRK**
