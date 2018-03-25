@@ -18,9 +18,9 @@ With over 800 participants in the last years, the Mensch & Computer is one of th
 * Implementing small interaction scripts
 
 ## Media
-**Video: ZeroGravity**
+**[Video: ZeroGravity](https://www.youtube.com/embed/mPqKV0Y3_uk)**
 
-[![Video: ZeroGravity](http://img.youtube.com/vi/9HrjoCzwMGw/0.jpg)](https://www.youtube.com/embed/9HrjoCzwMGw)
+[![Video: ZeroGravity](http://img.youtube.com/vi/9HrjoCzwMGw/0.jpg)]((https://www.youtube.com/embed/mPqKV0Y3_uk))
 
 **First time setup of the hangglider**
 

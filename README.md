@@ -29,9 +29,9 @@
 
 [![Zero Gravity](projectZeroGravitythumb.jpg)](ZeroGravity/ZeroGravity.md)
 
-**Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism**
+**[Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism](360Video/360Video.md)**
 
-![Immersive 360° videos](project360Videothumb.jpg)
+[![Immersive 360° videos](project360Videothumb.jpg)](360Video/360Video.md)
 
 **Virtual Studio - Semi-Automatic Camera and Switcher Control**
 
