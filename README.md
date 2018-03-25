@@ -2,7 +2,7 @@
 ## Scientific Publications
 * <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment</a>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression</a>
-* <a href="https://dl.acm.org/citation.cfm?id=2933559" target="_blank">Semi-Automatic Camera and Switcher Control for Live Broadcast</a>
+* <a href="https://dl.acm.org/citation.cfm?id=2933559" target="_blank">Semi-Automatic Camera and Switcher Control for Live Broadcast</a> ; <a href="https://www.fktg.org/halbautomatische-steuerung-von-kamera-und-bildmischer-bei-live-uebertragungen" target="_blank">Halbautomatische Steuerung von Kamera und Bildmischer bei Live-Übertragungen</a>
 * <a href="https://dl.acm.org/citation.cfm?id=2875226" target="_blank">Empathizing Audiovisual Sense Impairments: Interactive Real-Time Illustration of Diminished Sense Perception</a>
 * <a href="https://dl.acm.org/citation.cfm?id=2757736" target="_blank">Public Brewing: a Media Façade with a Mixed Reality Interface</a>
 * <a href="https://dl.gi.de/handle/20.500.12116/8203" target="_blank">ZeroGravity - eine virtuelle Nutzererfahrung in Luft und Wasser</a>
@@ -33,14 +33,14 @@
 
 [![Immersive 360° videos](project360Videothumb.jpg)](360Video/360Video.md)
 
-**Virtual Studio - Semi-Automatic Camera and Switcher Control**
+**[Virtual Studio - Semi-Automatic Camera and Switcher Control](VirtualStudio/VirtualStudio.md)**
 
-![Virtual Studio](projectVSthumb.jpg)
+[![Virtual Studio](projectVSthumb.jpg)](VirtualStudio/VirtualStudio.md)
 
-**Birds - An interactive, chirping media installation**
+**[Birds - An interactive, chirping media installation](Birds/Birds.md)**
 
-![Birds](projectBirdsthumb.jpg)
+[![Birds](projectBirdsthumb.jpg)](Birds/Birds.md)
 
-**Others**
+**[Others](Others/Others.md)**
 
-![Others](projectMiscellaneousthumb.jpg)
+[![Others](projectMiscellaneousthumb.jpg)](Others/Others.md)
