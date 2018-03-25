@@ -16,7 +16,7 @@ visited zoological gardens in Germany with approximately one million visitors pe
 * Specifying and deciding on technical requirements, e.g. video codecs and platforms.
 * Coding UI interactions, e.g. opening / closing buttons, images, and videos.
 * Recording of 360° videos in the zoo with GoPro cameras.
-* Stitching of our 360° zoo videos.
+* Stitching some of our 360° zoo videos.
 
 ## Media
 **[Video: 360° Video Project VR - Immersive Journalism](https://www.youtube.com/embed/4a9hLdh53QQ)**
