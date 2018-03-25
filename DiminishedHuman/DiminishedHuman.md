@@ -4,10 +4,10 @@ This project addresses the challenge of empathizing with audiovisual sense impai
 
 ## Achievements
 * Tested the system informally with experts and non-expert users. They qualified it as useful for enhancing the empathy for audiovisual sense impairments, motivating a further development of this idea.
+* Presented in a local mall in Duesseldorf in cooperation with the <a href="https://www.drk.de/en/" target="_blank">Deutsches Rotes Kreuz</a>, which is part of the <a href="https://en.wikipedia.org/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies" target="_blank">International Federation of Red Cross and Red Crescent Societies</a>, the biggest humanitarian organization in the world.
 * [Raised few interests in public media](#further-information).
 * One of the first projects to modify a modern HMD with external cameras.
-* Project was published in [Proceedings of the 7th Augmented Human International Conference 2016](http://dl.acm.org/citation.cfm?id=2875226) (sponsored by Google) as one out of 21 selected full papers in 138 submissions (Paper Acceptance Rate: 15%).
-* Presented in a local mall in Duesseldorf in cooperation with the [Deutsches Rotes Kreuz](https://www.drk.de/en/), which is part of the [International Federation of Red Cross and Red Crescent Societies](https://en.wikipedia.org/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies), the biggest humanitarian organization in the world.
+* Project was published in <a href="http://dl.acm.org/citation.cfm?id=2875226" target="_blank">Proceedings of the 7th Augmented Human International Conference 2016</a> (sponsored by Google) as one out of 21 selected full papers in 138 submissions (Paper Acceptance Rate: 15%).
 
 ## My responsibilities
 * I did this work as part of my bachelor thesis, so basically everything except the audio part in the paper (I used a different audio system in my thesis).
