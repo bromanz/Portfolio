@@ -13,7 +13,7 @@ Using a trampoline as a natural 3D user interface with a Head- Mounted Display f
 * Designed and implemented the whole framework to easily create trampoline jumping games with this setup, including (but non-exclusive):
   * OptiTrack tracking, 
   * Avatar visualization and control (none, IK driven, static, ...),
-  * Interfaces to interesting parameters for developers (virtual jump height mapping, average jump duration, current jump height, interaction gestures, etc.)
+  * Interfaces to interesting parameters for developers (virtual jump height mapping, average jump duration, current jump height, interaction gestures, forces, velocities, etc.)
 
 ## Media
 **Video: Superjump - Behind the scenes**
@@ -36,3 +36,6 @@ Using a trampoline as a natural 3D user interface with a Head- Mounted Display f
 
 ![EndlessRunner: Virtual avatar controlled with Inverse Kinematics](ingame.jpg)
 
+**Video: Spacejump VR**
+
+[![Video: Spacejump VR](evaluation-impression.jpg)](https://player.vimeo.com/video/200660727?color=ffff00&title=0&byline=0&portrait=0)
