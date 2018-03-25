@@ -21,9 +21,9 @@
 
 [![Diminished Human](projectDiminishedHumanthumb.jpg)](DiminishedHuman/DiminishedHuman.md)
 
-**Public Brewing - A Media Façade with a Mixed Reality Interface to brew beer**
+**[Public Brewing - A Media Façade with a Mixed Reality Interface to brew beer](PublicBrewing/PublicBrewing.md)**
 
-[Public brewing](projectBrewingthumb.jpg)]
+[![Public Brewing](projectBrewingthumb.jpg)](PublicBrewing/PublicBrewing.md)
 
 **Zero Gravity - A Virtual Reality experience in air and water**
 
