@@ -6,15 +6,22 @@ This project was presented at an in-house exhibition with approx. 300 participan
 
 ## Media
 Video: Superjump - Behind the scenes
+
 [![Superjump behind the scenes video](http://img.youtube.com/vi/KEtzEuRBNKI/0.jpg)](https://www.youtube.com/embed/KEtzEuRBNKI)
+
 Teammate experiencing jumping with the GearVR and Perception Neuron Tracking
+
 ![Testing with GearVR and Neuron Tracking](hardware_test1.jpg)
+
 Prototype with Kinect and a screen
+
 ![Prototype with Kinect and a screen](kinect_screen.jpg)
+
 Final setup: OptiTrack and GearVR
+
 ![Final setup: OptiTrack and GearVR](trampoline-interaction-gesture.jpg)
+
 EndlessRunner: Virtual avatar controlled with Inverse Kinematics
+
 ![EndlessRunner: Virtual avatar controlled with Inverse Kinematics](ingame.jpg)
 
-##Further information
-* [INTETAIN 2017](https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8)
