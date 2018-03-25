@@ -20,7 +20,8 @@ elements of the brewery.</li>
 In addition, a VR application was developed. This application allowed the user to shrink in size and walk around in the brewing machine among the dwarfs.
 
 ## Achievements
-* Various appearances in local newspapers and presentations on conferences (e.g. <a href="http://www.cebit.de/home">CeBIT</a> 2015, the largest and most internationally represented computer expo)
+* [Various appearances in local newspapers, tv-shows](#further-information), and presentations on conferences (e.g. <a href="https://www.youtube.com/watch?v=hOo-aZ6z5_0" target="_blank">InsideAR</a> and <a href="http://www.cebit.de/home">CeBIT</a> 2015, the largest and most internationally represented computer expo)
+* Project combined and synchronized actions across a media facade, AR apps, and the real machine. This created a unique combination between real and virtual elements.
 * Project was also published in <a href="http://dl.acm.org/citation.cfm?id=2757736" target="_blank">Proceedings of the 4th International Symposium on Pervasive Displays</a>.
 
 ## My responsibilities
@@ -28,7 +29,7 @@ In addition, a VR application was developed. This application allowed the user t
 * Coding animations and effects of dwarfs and other elements
 * Programming interface to real-machine inputs and their implications on the virtual world
 
-## [Further information]
+## Further information
 <ul>
 	<li><a href="http://www.publicbrewing.de" target="_blank">&#8594; (Website): Public Brewing - Main website</a></li>
 	<li><a href="http://dl.acm.org/citation.cfm?id=2757736" target="_blank">&#8594; (ACM Digital Library): PerDis'15 - Public Brewing: a Media Façade with a Mixed Reality Interface</a></li>
@@ -40,8 +41,7 @@ In addition, a VR application was developed. This application allowed the user t
 ## Media
 **Video: Public Brewing - First AR Extension**
 
-<iframe src="https://www.youtube.com/embed/mPqKV0Y3_uk" allowfullscreen></iframe>
-
+[![Video: Public Brewing - First AR Extension](http://img.youtube.com/vi/mPqKV0Y3_uk/0.jpg)](https://www.youtube.com/embed/mPqKV0Y3_uk)
 
 **AR Magic lens provides a look into the brewing machine**
 
@@ -53,7 +53,7 @@ In addition, a VR application was developed. This application allowed the user t
 
 **Bottle goes up an elevator before presented at the same place in the real world**
 
-![Bottle goes up an elevator before presented at the same place in the real world](bottleelevator1.jpg.jpg)
+![Bottle goes up an elevator before presented at the same place in the real world](bottleelevator1.jpg)
 
 **Dwarf pushing the bottle over the conveyor belt**
 
