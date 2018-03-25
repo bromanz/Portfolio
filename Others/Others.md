@@ -2,12 +2,16 @@
 ## Smartcity - Augmented Reality Visualization
 * Programmed an Augmented Reality visualization for 1 month in a team of 4 for Panasonic. Coded on the user interaction and animation sequences.
 * Project featured at the <a href="http://www.ifa-berlin.de/en/" target="_blank">IFA 2016 in Berlin</a> (world's leading trade show for consumer electronics and home appliances).
+
 **Panasonic smartcity AR booth**
+
 ![Panasonic smartcity AR booth](smartcity-overview.jpg)
 
 ## Augmented Reality photo album
 * My vision was to breathe life into my old photos. An Android app enables the user to see different animations or effects on the images, e.g. it is snowing on a winter image or you can see the people breathing.
+
 **Magic lens exposes my bad barbecue skills**
+
 ![Magic lens exposes my bad barbecue skills](ar-image.jpg)
 
 ## Augmented Reality Sound Sandbox: An artistic installation for musical expression
@@ -25,15 +29,18 @@ The project was published in <a href="https://link.springer.com/chapter/10.1007/
 [![Video: Augmented Reality Sound Sandbox](http://img.youtube.com/vi/H0eqN31qsjY/0.jpg)](https://www.youtube.com/embed/H0eqN31qsjY)
 
 **Particles flowing over the sand**
+
 ![Panasonic smartcity AR booth](sandbox-overview.jpg)
 
 **Control menu projected on the user's hand**
+
 ![Panasonic smartcity AR booth](sandbox-hand.jpg)
 
 ## Lecture: Real-Time Rendering
 The goal was to develop a shader and a corresponding ray tracing implementation. I implemented a grass shader with billboards using Unity3D, ShaderLab/CG/HLSL and ray tracing program using <a href="https://developer.nvidia.com/optix">NVIDIA OptiX</a>. Compared both results in a short report.
 
 **Grass billboard shader with animation in Unity3D**
+
 ![Grass billboard shader with animation in Unity3D](gras-shader-unity.jpg)
 
 ## LeapMotion - Rock Paper Scissors - Proof of Concept
@@ -61,21 +68,26 @@ In our second semester, we implemented Sudoku on the command prompt with Java. T
 Created for a friend using RPG-Maker 2k.
 
 **Waking up in a foreign room, without any memories**
+
 ![Waking up in a foreign room, without any memories](rpg-firstRoom.jpg)
 
 **Such a weird dream...**
+
 ![Such a weird dream...](rpg-dream.jpg)
 
 **Underworld: On the way to the demon king**
+
 ![Underworld: On the way to the demon king](rpg-underworld.jpg)
 
 ## Blitzbasic Projects
 Actually, Blitzbasic got me into programming at the age of around 10-13, I can't recall exactly. I started programming because I was a little gamer and I was always wondering how it is possible to create video games. However, this project was about practicing easy linear functions in the form f(x)=ax+b and one of my first programming projects ever. Some younger friends used this program to practice for their exams - needless to say they did well hehe.
 
 **Practice linear functions with math text problems, calculation of intersection points, amongst other things**
+
 ![Practice linear functions with math text problems, calculation of intersection points, amongst other things](function-training1.jpg)
 
 **Giving rough graphical representations of linear functions**
+
 ![Giving rough graphical representations of linear functions](function-training2.jpg)
 
 ## Autodesk Maya shorts
