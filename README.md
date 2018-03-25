@@ -9,9 +9,9 @@
 ## Medium articles
 * <a href="https://medium.com/@bromanz/simd-sse-unity3d-net-2-0-70f6c911713f" target="_blank">Utilizing SIMD/SSE in Unity3D (.NET 2.0)</a>
 ## Project pages
-**Acceleration Structures for Cone Tracing**
+**[Acceleration Structures for Cone Tracing](AccelConeTracing/AccelConeTracing.md)**
 
-![Acceleration Structures for Cone Tracing](projectAccConeTracingthumb.png)
+[![Acceleration Structures for Cone Tracing](projectAccConeTracingthumb.png)](AccelConeTracing/AccelConeTracing.md)
 
 **[Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Superjump/Superjump.md)**
 
