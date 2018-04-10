@@ -8,6 +8,7 @@
 * <a href="https://dl.gi.de/handle/20.500.12116/8203" target="_blank">ZeroGravity - eine virtuelle Nutzererfahrung in Luft und Wasser</a>
 ## Medium articles
 * <a href="https://medium.com/@bromanz/simd-sse-unity3d-net-2-0-70f6c911713f" target="_blank">Utilizing SIMD/SSE in Unity3D (.NET 2.0)</a>
+* <a href="https://medium.com/@bromanz/how-to-create-awesome-accelerators-the-surface-area-heuristic-e14b5dec6160" target="_blank">How to create awesome accelerators: The Surface Area Heuristic</a>
 ## Project pages
 **[Acceleration Structures for Cone Tracing](AccelConeTracing/AccelConeTracing.md)**
 
