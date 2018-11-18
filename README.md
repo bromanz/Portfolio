@@ -19,9 +19,9 @@ I created this repository to collect and summarize many of my finished projects.
 ## Talks
 * <a href="https://unite.unity.com/de/2018/berlin/autotech" target="_blank">Unite Berlin 2018 - Closing the Loop: Unity as a Tool for Vehicle Development</a>
 ## Project pages
-**[Acceleration Structures for Cone Tracing](Description/AccelConeTracing/AccelConeTracing.md)**
+**[Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/AccelConeTracing.md)**
 
-[![Acceleration Structures for Cone Tracing](Description/AccelConeTracing/Images/projectAccConeTracingthumb.png)](Description/AccelConeTracing/AccelConeTracing.md)
+[![Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/Images/projectAccConeTracingthumb.png)](Descriptions/AccelConeTracing/AccelConeTracing.md)
 
 **[Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Descriptions/Superjump/Superjump.md)**
 
