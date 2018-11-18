@@ -68,3 +68,5 @@ In addition, a VR application was developed. This application allowed the user t
 ![User exploring the virtual factory inside the machine](Images/passive_user_exploring.jpg)
 
 [**Back to the top**](#summary)
+
+[**Back to Portfolio**](https://github.com/bromanz/Portfolio#portfolio)
