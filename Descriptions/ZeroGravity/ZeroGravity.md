@@ -12,9 +12,9 @@ underwater world. There he could explore the bottom of the ocean in a submarine.
 With over 800 participants in the last years, the Mensch & Computer is one of the biggest Human-Computer-Interaction conferences all over Europe.
 
 ## My responsibilities
-* Construction and implementation of a vibration vest
-* Coding the control of the wind machines
-* Optimizing the scene
+* Construction and implementation of a vibration vest. We built it out of the components of the "Marvel Avengers Vybe Haptic Video Game Chair Pad". It is made out of several vibration units (I believe six) which are controlled by the outgoing sound of applications. But we still wanted to have normal sound for the user with no correlation to vibrations. So we splitted the outgoing audio signals in different channels to distinguish between real audio for the user and basically sine waves we produced to accurately control vibrations. The different units reacted depending on the frequency, amplitude, and stereo shifts, so we built a small library for vibration control from scratch.
+* Coding the control of the wind machines. We achieved this by plugging the wind machines into a DMX dimmer which in turn was connected to a work station. It received control information via COM-port from our [PureData](https://puredata.info/) application, which in turn got its intensity signals for four wind machines from our [Unity](https://unity3d.com) application via [OSC protocol](https://puredata.info/).
+* Optimizing the scene (Unity specifics like Occlusion culling, Frustum culling, Level of detail, Light baking, ...)
 * Implementing small interaction scripts
 
 ## Media
@@ -35,3 +35,5 @@ With over 800 participants in the last years, the Mensch & Computer is one of th
 ![User enjoying his sight while flying](Images/flying2.jpg)
 
 [**Back to the top**](#summary)
+
+[**Back to the top**](#portfolio)
