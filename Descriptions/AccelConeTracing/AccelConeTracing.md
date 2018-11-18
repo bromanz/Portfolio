@@ -16,8 +16,8 @@ structures. Accordingly, this project compares ray and cone tracing performance 
 
 ## Achievements
 * Created a GPU ray- and cone tracing framework in Unity3D in a team of two.
-* Building of kd-tree and SBVH (Stich et al.) in Unity3D on the CPU.
-* Implemented various traversal algorithms for rays and cones on the GPU.
+* Building of kd-tree and SBVH (Stich et al.) in Unity3D on the CPU from scratch.
+* Implemented various traversal algorithms for rays and cones on the GPU from scratch.
 
 ## My responsibilities
 * This was my master thesis, so basically everything.
