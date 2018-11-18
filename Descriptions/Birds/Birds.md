@@ -67,4 +67,5 @@ user would move the mouse over a table. I then used this difference and contribu
 ![Adding hardware to the frame](Images/addinghardware.jpg)
 
 [**Back to the top**](#summary)
+
 [**Back to Portfolio**](https://github.com/bromanz/Portfolio#project-pages)
