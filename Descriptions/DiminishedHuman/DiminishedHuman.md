@@ -23,24 +23,24 @@ This project addresses the challenge of empathizing with audiovisual sense impai
 ## Media
 **Showing the prototype in public with the DRK**
 
-![Showing the prototype in public with the DRK](prototype_demonstration1.jpg)
+![Showing the prototype in public with the DRK](Images/prototype_demonstration1.jpg)
 
 **Testing different sense impairments with the users**
 
-![Testing different sense impairments with the users](prototype_demonstration2.jpg)
+![Testing different sense impairments with the users](Images/prototype_demonstration2.jpg)
 
 **Trying to drink tea with diminished sight**
 
-![Trying to drink tea with diminished sight](visualImpairment1.jpg)
+![Trying to drink tea with diminished sight](Images/visualImpairment1.jpg)
 
 **Experiment to empathize with visual impairments**
 
-![Experiment to empathize with visual impairments](visualImpairment2.jpg)
+![Experiment to empathize with visual impairments](Images/visualImpairment2.jpg)
 
 **Experiencing macula degeneration while reading**
 
-![Experiencing macula degeneration while reading](visualImpairment3.jpg)
+![Experiencing macula degeneration while reading](Images/visualImpairment3.jpg)
 
 **First person perspective of visual impairments**
 
-![First person perspective of visual impairments](mixed_reality_sight.png)
+![First person perspective of visual impairments](Images/mixed_reality_sight.png)

@@ -24,12 +24,12 @@ With over 800 participants in the last years, the Mensch & Computer is one of th
 
 **First time setup of the hangglider**
 
-![First time setup of the hangglider](setup.jpg)
+![First time setup of the hangglider](Images/setup.jpg)
 
 **User flying down a mountain**
 
-![User flying down a mountain](flying1.jpg)
+![User flying down a mountain](Images/flying1.jpg)
 
 **User enjoying his sight while flying**
 
-![User enjoying his sight while flying](flying2.jpg)
+![User enjoying his sight while flying](Images/flying2.jpg)

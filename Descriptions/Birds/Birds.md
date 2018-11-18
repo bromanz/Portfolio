@@ -28,40 +28,40 @@ user would move the mouse over a table. I then used this difference to let it co
 
 **Installation with sign on the side explaining it**
 
-![Installation with sign on the side explaining it](openday1.jpg)
+![Installation with sign on the side explaining it](Images/openday1.jpg)
 
 **Showing our installation at an open day**
 
-![Showing our installation at an open day](openday2.jpg)
+![Showing our installation at an open day](Images/openday2.jpg)
 
 **Using the crank to move the cord**
 
-![Using the crank to move the cord](openday3.jpg)
+![Using the crank to move the cord](Images/openday3.jpg)
 
 **Joyfull visual and auditive interaction with the adorable birds**
 
-![Joyfull visual and auditive interaction with the adorable birds](openday4.jpg)
+![Joyfull visual and auditive interaction with the adorable birds](Images/openday4.jpg)
 
 **User happily teasing the poor birds by clapping**
 
-![User happily teasing the poor birds by clapping](openday5.jpg)
+![User happily teasing the poor birds by clapping](Images/openday5.jpg)
 
 **Poor bird on the right trying to hide**
 
-![Poor bird on the right trying to hide](hiding.jpg)
+![Poor bird on the right trying to hide](Images/hiding.jpg)
 
 **Brave bird waving to the user**
 
-![Brave bird waving to the user](waving.jpg)
+![Brave bird waving to the user](Images/waving.jpg)
 
 **User carefully approaching a lonely bird**
 
-![User carefully approaching a lonely bird](openday6.jpg)
+![User carefully approaching a lonely bird](Images/openday6.jpg)
 
 **Teammates working on the frame in the wood workshop**
 
-![Teammates working on the frame in the wood workshop](woodworkshop.jpg)
+![Teammates working on the frame in the wood workshop](Images/woodworkshop.jpg)
 
 **Adding hardware to the frame**
 
-![Adding hardware to the frame](addinghardware.jpg)
+![Adding hardware to the frame](Images/addinghardware.jpg)

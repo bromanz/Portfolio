@@ -22,19 +22,19 @@ Using a trampoline as a natural 3D user interface with a Head- Mounted Display f
 
 **Teammate experiencing jumping with the GearVR and Perception Neuron Tracking**
 
-![Testing with GearVR and Neuron Tracking](hardware_test1.jpg)
+![Testing with GearVR and Neuron Tracking](Images/hardware_test1.jpg)
 
 **Prototype with Kinect and a screen**
 
-![Prototype with Kinect and a screen](kinect_screen.jpg)
+![Prototype with Kinect and a screen](Images/kinect_screen.jpg)
 
 **Final setup: OptiTrack and GearVR**
 
-![Final setup: OptiTrack and GearVR](trampoline-interaction-gesture.jpg)
+![Final setup: OptiTrack and GearVR](Images/trampoline-interaction-gesture.jpg)
 
 **EndlessRunner: Virtual avatar controlled with Inverse Kinematics**
 
-![EndlessRunner: Virtual avatar controlled with Inverse Kinematics](ingame.jpg)
+![EndlessRunner: Virtual avatar controlled with Inverse Kinematics](Images/ingame.jpg)
 
 **[Video: Spacejump VR](https://player.vimeo.com/video/200660727?color=ffff00&title=0&byline=0&portrait=0)**
 

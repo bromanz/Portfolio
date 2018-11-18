@@ -39,9 +39,9 @@ visited zoological gardens in Germany with approximately one million visitors pe
 
 ![Observating cute bears](Images/zoo_experience4.jpg)
 
-**Watching 2D documentaries in the 360&#176 world**
+**Watching 2D documentaries in the 360° world**
 
-![Watching 2D documentaries in the 360&#176 world](Images/zoo_experience5.jpg)
+![Watching 2D documentaries in the 360° world](Images/zoo_experience5.jpg)
 
 **Standing on the field during an ice hockey opening ceremony**
 
@@ -53,7 +53,7 @@ visited zoological gardens in Germany with approximately one million visitors pe
 
 **Cheering with the crowd - Feeling the atmosphere on the terrace first hand**
 
-![Cheering with the crowd - Feeling the atmosphere on the terrace first hand](terraceview.jpg)
+![Cheering with the crowd - Feeling the atmosphere on the terrace first hand](Images/terraceview.jpg)
 
 **Getting exceptional insights after the game**
 

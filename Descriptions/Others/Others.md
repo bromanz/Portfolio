@@ -30,18 +30,18 @@ The project was published in <a href="https://link.springer.com/chapter/10.1007/
 
 **Particles flowing over the sand**
 
-![Panasonic smartcity AR booth](sandbox-overview.jpg)
+![Panasonic smartcity AR booth](Images/sandbox-overview.jpg)
 
 **Control menu projected on the user's hand**
 
-![Panasonic smartcity AR booth](sandbox-hand.jpg)
+![Panasonic smartcity AR booth](Images/sandbox-hand.jpg)
 
 ## Lecture: Real-Time Rendering
 The goal was to develop a shader and a corresponding ray tracing implementation. I implemented a grass shader with billboards using Unity3D, ShaderLab/CG/HLSL and ray tracing program using <a href="https://developer.nvidia.com/optix">NVIDIA OptiX</a>. Compared both results in a short report.
 
 **Grass billboard shader with animation in Unity3D**
 
-![Grass billboard shader with animation in Unity3D](gras-shader-unity.jpg)
+![Grass billboard shader with animation in Unity3D](Images/gras-shader-unity.jpg)
 
 ## LeapMotion - Rock Paper Scissors - Proof of Concept
 Coded small Proof of concept when the first version of LeapMotion was released in 2013.
@@ -69,26 +69,26 @@ Created for a friend using RPG-Maker 2k.
 
 **Waking up in a foreign room, without any memories**
 
-![Waking up in a foreign room, without any memories](rpg-firstRoom.jpg)
+![Waking up in a foreign room, without any memories](Images/rpg-firstRoom.jpg)
 
 **Such a weird dream...**
 
-![Such a weird dream...](rpg-dream.jpg)
+![Such a weird dream...](Images/rpg-dream.jpg)
 
 **Underworld: On the way to the demon king**
 
-![Underworld: On the way to the demon king](rpg-underworld.jpg)
+![Underworld: On the way to the demon king](Images/rpg-underworld.jpg)
 
 ## Blitzbasic Projects
 Actually, Blitzbasic got me into programming at the age of around 10-13, I can't recall exactly. I started programming because I was a little gamer and I was always wondering how it is possible to create video games. However, this project was about practicing easy linear functions in the form f(x)=ax+b and one of my first programming projects ever. Some younger friends used this program to practice for their exams - needless to say they did well hehe.
 
 **Practice linear functions with math text problems, calculation of intersection points, amongst other things**
 
-![Practice linear functions with math text problems, calculation of intersection points, amongst other things](function-training1.jpg)
+![Practice linear functions with math text problems, calculation of intersection points, amongst other things](Images/function-training1.jpg)
 
 **Giving rough graphical representations of linear functions**
 
-![Giving rough graphical representations of linear functions](function-training2.jpg)
+![Giving rough graphical representations of linear functions](Images/function-training2.jpg)
 
 ## Autodesk Maya shorts
 We created two short movies with Maya:

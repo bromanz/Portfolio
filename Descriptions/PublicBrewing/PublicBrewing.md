@@ -45,24 +45,24 @@ In addition, a VR application was developed. This application allowed the user t
 
 **AR Magic lens provides a look into the brewing machine**
 
-![AR Magic lens provides a look into the brewing machine](AR-into-machine.jpg)
+![AR Magic lens provides a look into the brewing machine](Images/AR-into-machine.jpg)
 
 **Real coins put into the machine trigger virtual coins rolling in**
 
-![Real coins put into the machine trigger virtual coins rolling in](coincheck1.jpg)
+![Real coins put into the machine trigger virtual coins rolling in](Images/coincheck1.jpg)
 
 **Bottle goes up an elevator before presented at the same place in the real world**
 
-![Bottle goes up an elevator before presented at the same place in the real world](bottleelevator1.jpg)
+![Bottle goes up an elevator before presented at the same place in the real world](Images/bottleelevator1.jpg)
 
 **Dwarf pushing the bottle over the conveyor belt**
 
-![Dwarf pushing the bottle over the conveyor belt](dwarf-pushing-bottle.jpg)
+![Dwarf pushing the bottle over the conveyor belt](Images/dwarf-pushing-bottle.jpg)
 
 **A secret message for the user is hidden inside the bottle**
 
-![A secret message for the user is hidden inside the bottle](bottle_tracking_message.jpg)
+![A secret message for the user is hidden inside the bottle](Images/bottle_tracking_message.jpg)
 
 **User exploring the virtual factory inside the machine**
 
-![User exploring the virtual factory inside the machine](passive_user_exploring.jpg)
+![User exploring the virtual factory inside the machine](Images/passive_user_exploring.jpg)

@@ -19,16 +19,16 @@ A test production was conducted to observe the developed prototype in a live bro
 ## Media
 **Host explaining camera modules**
 
-![Host explaining camera modules](test_production1.jpg)
+![Host explaining camera modules](Images/test_production1.jpg)
 
 **Test production with two persons**
 
-![Test production with two persons](test_production2.jpg)
+![Test production with two persons](Images/test_production2.jpg)
 
 **Hierarchical state machine of the system**
 
-![Hierarchical state machine of the system](statemachine.jpg)
+![Hierarchical state machine of the system](Images/statemachine.jpg)
 
 **Pan camera module for one person**
 
-![Pan camera module for one person](pan.png)
+![Pan camera module for one person](Images/pan.png)
