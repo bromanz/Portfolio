@@ -1,4 +1,10 @@
 # Portfolio
+I created this repository to collect and summarize many of my finished projects. It mainly includes projects I did during my studies or in my free-time (work experience mostly not included, as they require privacy from the companies I've been working for so far). Besides the projects listed here, I also have some public repositories on my GitHub account (mainly experiments or work in progress though), but feel free to check them out too if you're interested. Below you will find four categories:
+1. Papers - Here I put all the links to my published scientific papers and articles 
+2. Tech blog posts - From time to time I try to share some collected knowledge about a topic or explain some ideas I had. 
+3. Talks - Official public talks I've given. 
+4. Project pages - These link to more specific project information including a summary, achievements, my responsibilities in these projects, etc.
+
 ## Papers
 * <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment</a>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression</a>
@@ -13,38 +19,38 @@
 ## Talks
 * <a href="https://unite.unity.com/de/2018/berlin/autotech" target="_blank">Unite Berlin 2018 - Closing the Loop: Unity as a Tool for Vehicle Development</a>
 ## Project pages
-**[Acceleration Structures for Cone Tracing](AccelConeTracing/AccelConeTracing.md)**
+**[Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/AccelConeTracing.md)**
 
-[![Acceleration Structures for Cone Tracing](AccelConeTracing/Images/projectAccConeTracingthumb.png)](AccelConeTracing/AccelConeTracing.md)
+[![Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/Images/projectAccConeTracingthumb.png)](Descriptions/AccelConeTracing/AccelConeTracing.md)
 
-**[Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Superjump/Superjump.md)**
+**[Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Descriptions/Superjump/Superjump.md)**
 
-[![Superjump](Superjump/Images/projectSuperjumpthumb.jpg)](Superjump/Superjump.md)
+[![Superjump](Descriptions/Superjump/Images/projectSuperjumpthumb.jpg)](Descriptions/Superjump/Superjump.md)
 
-**[Diminished Human - Empathizing Audiovisual Sense Impairments with Mixed Reality](DiminishedHuman/DiminishedHuman.md)**
+**[Diminished Human - Empathizing Audiovisual Sense Impairments with Mixed Reality](Descriptions/DiminishedHuman/DiminishedHuman.md)**
 
-[![Diminished Human](DiminishedHuman/Images/projectDiminishedHumanthumb.jpg)](DiminishedHuman/DiminishedHuman.md)
+[![Diminished Human](Descriptions/DiminishedHuman/Images/projectDiminishedHumanthumb.jpg)](Descriptions/DiminishedHuman/DiminishedHuman.md)
 
-**[Public Brewing - A Media Façade with a Mixed Reality Interface to brew beer](PublicBrewing/PublicBrewing.md)**
+**[Public Brewing - A Media Façade with a Mixed Reality Interface to brew beer](Descriptions/PublicBrewing/PublicBrewing.md)**
 
-[![Public Brewing](PublicBrewing/Images/projectBrewingthumb.jpg)](PublicBrewing/PublicBrewing.md)
+[![Public Brewing](Descriptions/PublicBrewing/Images/projectBrewingthumb.jpg)](Descriptions/PublicBrewing/PublicBrewing.md)
 
-**[Zero Gravity - A Virtual Reality experience in air and water](ZeroGravity/ZeroGravity.md)**
+**[Zero Gravity - A Virtual Reality experience in air and water](Descriptions/ZeroGravity/ZeroGravity.md)**
 
-[![Zero Gravity](ZeroGravity/Images/projectZeroGravitythumb.jpg)](ZeroGravity/ZeroGravity.md)
+[![Zero Gravity](Descriptions/ZeroGravity/Images/projectZeroGravitythumb.jpg)](Descriptions/ZeroGravity/ZeroGravity.md)
 
-**[Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism](360Video/360Video.md)**
+**[Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism](Descriptions/360Video/360Video.md)**
 
-[![Immersive 360° videos](360Video/Images/project360Videothumb.jpg)](360Video/360Video.md)
+[![Immersive 360° videos](Descriptions/360Video/Images/project360Videothumb.jpg)](Descriptions/360Video/360Video.md)
 
-**[Virtual Studio - Semi-Automatic Camera and Switcher Control](VirtualStudio/VirtualStudio.md)**
+**[Virtual Studio - Semi-Automatic Camera and Switcher Control](Descriptions/VirtualStudio/VirtualStudio.md)**
 
-[![Virtual Studio](VirtualStudio/Images/projectVSthumb.jpg)](VirtualStudio/VirtualStudio.md)
+[![Virtual Studio](Descriptions/VirtualStudio/Images/projectVSthumb.jpg)](Descriptions/VirtualStudio/VirtualStudio.md)
 
-**[Birds - An interactive, chirping media installation](Birds/Birds.md)**
+**[Birds - An interactive, chirping media installation](Descriptions/Birds/Birds.md)**
 
-[![Birds](Birds/Images/projectBirdsthumb.jpg)](Birds/Birds.md)
+[![Birds](Descriptions/Birds/Images/projectBirdsthumb.jpg)](Descriptions/Birds/Birds.md)
 
-**[Others](Others/Others.md)**
+**[Others](Descriptions/Others/Others.md)**
 
-[![Others](Others/Images/projectMiscellaneousthumb.jpg)](Others/Others.md)
+[![Others](Descriptions/Others/Images/projectMiscellaneousthumb.jpg)](Descriptions/Others/Others.md)
