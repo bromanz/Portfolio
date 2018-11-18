@@ -14,12 +14,12 @@ we added a camera with a microphone and a crank to our installation. The wide-an
 
 ## My responsibilities
 * Creating interactions with the user (audio and crank). I implemented the reaction to the audio in PureData, where the volume of the sounds was mapped to a fear level for the birds. The result was then sent to
-a Unity application, collecting the possible fear from multiple input sources (Camera image, Microphone audio, Rotation of the crank). For the crank interaction to work, we mounted a long schraube on the crank and hided
-a mounted mouse on the side of our installation, positioned just right after the schraube. This way, when rotating the crank (and the assigned schraube), the sensor of the mouse recognized this movement as though a 
-user would move the mouse over a table. I then used this difference to let it contribute to the fear level of the birds. 
-* Coding the interface to fear the birds
+a Unity application, collecting the possible fear from multiple input sources (camera image, microphone audio, rotation of the crank). For the crank interaction to work, we mounted a bolt on the crank hidden in the wooden frame. Just slightly behind the bolt, we mounted
+a mouse. This way, when rotating the crank (and the assigned bolt), the sensor of the mouse recognized this movement as though a 
+user would move the mouse over a table. I then used this difference and contributed it to the fear level of the birds. 
+* Coding the interface to fear the birds (mixing, normalizing, etc.)
 * Working on the concept (like description sign on the side) and parts of the hardware
-* Implementing small scripts for the scene and agents. This included things like clouds moving through the picture or helping my mates out with the agent implementation based on Nature of x.
+* Implementing small scripts for the scene and agents. This included things like clouds moving through the picture or helping my mates out with the agent implementation based on [Nature of Code by Daniel Shiffman](https://natureofcode.com/)
 
 ## Media
 **[Video: Birds Media Installation](https://www.youtube.com/embed/Tuy0Cl3ZDKM)**
