@@ -36,4 +36,4 @@ With over 800 participants in the last years, the Mensch & Computer is one of th
 
 [**Back to the top**](#summary)
 
-[**Back to the top**](#portfolio)
+[**Back to Portfolio**](https://github.com/bromanz/Portfolio#portfolio)
