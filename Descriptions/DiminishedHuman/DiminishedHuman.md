@@ -44,3 +44,5 @@ This project addresses the challenge of empathizing with audiovisual sense impai
 **First person perspective of visual impairments**
 
 ![First person perspective of visual impairments](Images/mixed_reality_sight.png)
+
+[**Back to the top**](#summary)

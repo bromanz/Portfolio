@@ -33,3 +33,5 @@ With over 800 participants in the last years, the Mensch & Computer is one of th
 **User enjoying his sight while flying**
 
 ![User enjoying his sight while flying](Images/flying2.jpg)
+
+[**Back to the top**](#summary)
