@@ -12,9 +12,9 @@ A test production was conducted to observe the developed prototype in a live bro
 * German version also published in Fernseh- und Kinotechnische Gesellschaft e.V. magazine: <a href="https://www.fktg.org/halbautomatische-steuerung-von-kamera-und-bildmischer-bei-live-uebertragungen" target="_blank">Halbautomatische Steuerung von Kamera und Bildmischer bei Live-Übertragungen</a>
 
 ## My responsibilities
-* Building the expert system with state machines
-* Coding interfaces to the switcher and camera control modules
-* Implementing the audio recognition via lavalier microphones
+* Building the expert system with state machines (reinvented the use of mecanim in [Unity](https://unity3d.com/) for this purpose)
+* Coding interfaces to the switcher and camera control modules (Networking through [OSC protocol](http://opensoundcontrol.org/introduction-osc))
+* Implementing the audio recognition via lavalier microphones (using [PureData](https://puredata.info/))
 
 ## Media
 **Host explaining camera modules**
