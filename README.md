@@ -19,38 +19,38 @@ I created this repository to collect and summarize many of my finished projects.
 ## Talks
 * <a href="https://unite.unity.com/de/2018/berlin/autotech" target="_blank">Unite Berlin 2018 - Closing the Loop: Unity as a Tool for Vehicle Development</a>
 ## Project pages
-**[Acceleration Structures for Cone Tracing](AccelConeTracing/AccelConeTracing.md)**
+**[Acceleration Structures for Cone Tracing](Description/AccelConeTracing/AccelConeTracing.md)**
 
-[![Acceleration Structures for Cone Tracing](AccelConeTracing/Images/projectAccConeTracingthumb.png)](AccelConeTracing/AccelConeTracing.md)
+[![Acceleration Structures for Cone Tracing](Description/AccelConeTracing/Images/projectAccConeTracingthumb.png)](Description/AccelConeTracing/AccelConeTracing.md)
 
-**[Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Superjump/Superjump.md)**
+**[Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Descriptions/Superjump/Superjump.md)**
 
-[![Superjump](Superjump/Images/projectSuperjumpthumb.jpg)](Superjump/Superjump.md)
+[![Superjump](Descriptions/Superjump/Images/projectSuperjumpthumb.jpg)](Descriptions/Superjump/Superjump.md)
 
-**[Diminished Human - Empathizing Audiovisual Sense Impairments with Mixed Reality](DiminishedHuman/DiminishedHuman.md)**
+**[Diminished Human - Empathizing Audiovisual Sense Impairments with Mixed Reality](Descriptions/DiminishedHuman/DiminishedHuman.md)**
 
-[![Diminished Human](DiminishedHuman/Images/projectDiminishedHumanthumb.jpg)](DiminishedHuman/DiminishedHuman.md)
+[![Diminished Human](Descriptions/DiminishedHuman/Images/projectDiminishedHumanthumb.jpg)](Descriptions/DiminishedHuman/DiminishedHuman.md)
 
-**[Public Brewing - A Media Façade with a Mixed Reality Interface to brew beer](PublicBrewing/PublicBrewing.md)**
+**[Public Brewing - A Media Façade with a Mixed Reality Interface to brew beer](Descriptions/PublicBrewing/PublicBrewing.md)**
 
-[![Public Brewing](PublicBrewing/Images/projectBrewingthumb.jpg)](PublicBrewing/PublicBrewing.md)
+[![Public Brewing](Descriptions/PublicBrewing/Images/projectBrewingthumb.jpg)](Descriptions/PublicBrewing/PublicBrewing.md)
 
-**[Zero Gravity - A Virtual Reality experience in air and water](ZeroGravity/ZeroGravity.md)**
+**[Zero Gravity - A Virtual Reality experience in air and water](Descriptions/ZeroGravity/ZeroGravity.md)**
 
-[![Zero Gravity](ZeroGravity/Images/projectZeroGravitythumb.jpg)](ZeroGravity/ZeroGravity.md)
+[![Zero Gravity](Descriptions/ZeroGravity/Images/projectZeroGravitythumb.jpg)](Descriptions/ZeroGravity/ZeroGravity.md)
 
-**[Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism](360Video/360Video.md)**
+**[Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism](Descriptions/360Video/360Video.md)**
 
-[![Immersive 360° videos](360Video/Images/project360Videothumb.jpg)](360Video/360Video.md)
+[![Immersive 360° videos](Descriptions/360Video/Images/project360Videothumb.jpg)](Descriptions/360Video/360Video.md)
 
-**[Virtual Studio - Semi-Automatic Camera and Switcher Control](VirtualStudio/VirtualStudio.md)**
+**[Virtual Studio - Semi-Automatic Camera and Switcher Control](Descriptions/VirtualStudio/VirtualStudio.md)**
 
-[![Virtual Studio](VirtualStudio/Images/projectVSthumb.jpg)](VirtualStudio/VirtualStudio.md)
+[![Virtual Studio](Descriptions/VirtualStudio/Images/projectVSthumb.jpg)](Descriptions/VirtualStudio/VirtualStudio.md)
 
-**[Birds - An interactive, chirping media installation](Birds/Birds.md)**
+**[Birds - An interactive, chirping media installation](Descriptions/Birds/Birds.md)**
 
-[![Birds](Birds/Images/projectBirdsthumb.jpg)](Birds/Birds.md)
+[![Birds](Descriptions/Birds/Images/projectBirdsthumb.jpg)](Descriptions/Birds/Birds.md)
 
-**[Others](Others/Others.md)**
+**[Others](Descriptions/Others/Others.md)**
 
-[![Others](Others/Images/projectMiscellaneousthumb.jpg)](Others/Others.md)
+[![Others](Descriptions/Others/Images/projectMiscellaneousthumb.jpg)](Descriptions/Others/Others.md)
