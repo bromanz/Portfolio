@@ -69,7 +69,7 @@ I created this repository to collect and summarize many of my finished projects.
 
 ### [Others](Descriptions/Others/Others.md) ###
 
-(Media Installations, Apps, Games, Prototypes, Reports)
+(Media Installations, Apps, Games, Robots, Prototypes, Reports)
 
 [![Others](Descriptions/Others/Images/projectMiscellaneousthumb.jpg)](Descriptions/Others/Others.md)
 
