@@ -62,3 +62,5 @@ visited zoological gardens in Germany with approximately one million visitors pe
 **Displaying information about the user's favourite players**
 
 ![Displaying information about the user's favourite players](Images/playerinfo.jpg)
+
+[**Back to the top**](#summary)
