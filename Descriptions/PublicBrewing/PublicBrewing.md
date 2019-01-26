@@ -26,7 +26,7 @@ In addition, a VR application was developed. This application allowed the user t
 
 ## My responsibilities
 * Creating virtual environment in the machine.
-* Coding animations and effects of dwarfs and other elements. We got many animations off-the-self from [Mixamo](https://www.mixamo.com/) and added them via Mecanim to [Unity](https://unity3d.com).
+* Coding animations and effects of dwarfs and other elements. We got many animations off-the-shelf from [Mixamo](https://www.mixamo.com/) and added them via Mecanim to [Unity](https://unity3d.com).
 * Programming interface to real-machine inputs and their implications on the virtual world. We had both the machine and apps running in the same WiFi, and the machine was sending out information about its current state via TCP connection. That way, the machine could sync with the AR visualization.
 
 ## Further information
