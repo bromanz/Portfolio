@@ -1,7 +1,7 @@
 # Portfolio
 I created this repository to collect and summarize many of my finished projects. It mainly includes projects I did during my studies or in my free-time (work experience mostly not included, as they require privacy from the companies I've been working for so far). Besides the projects listed here, I also have some public repositories on my GitHub account (mainly experiments, contributions, or work in progress though), but feel free to check them out too if you're interested. Below you will find four categories:
 1. [**Papers**](#papers) - Here I put all the links to my published scientific papers and articles 
-2. [**Tech blog posts**](#tech-blog-articles) - From time to time I try to share some collected knowledge about a topic or explain some ideas I had. 
+2. [**Tech blog posts**](#tech-blog-articles) - From time to time I share some collected knowledge about a topic or explain some ideas I had. 
 3. [**Talks**](#talks) - Official public talks I've given. 
 4. [**Project pages**](#project-pages) - These link to more specific project information including a summary, achievements, my responsibilities in these projects, etc.
 
