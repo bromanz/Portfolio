@@ -18,6 +18,8 @@ I created this repository to collect and summarize many of my finished projects.
 * <a href="https://medium.com/@bromanz/simd-sse-unity3d-net-2-0-70f6c911713f" target="_blank">Utilizing SIMD/SSE in Unity3D (.NET 2.0)</a>
 ## Talks
 * <a href="https://unite.unity.com/de/2018/berlin/autotech" target="_blank">Unite Berlin 2018 - Closing the Loop: Unity as a Tool for Vehicle Development</a>
+[![Unite2018](Descriptions/Talks/unite2018.jpg)]
+
 ## Project pages
 ### [Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/AccelConeTracing.md) ###
 
