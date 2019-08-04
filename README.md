@@ -70,7 +70,7 @@ I created this repository to collect and summarize many of my finished projects.
 
 [![Birds](Descriptions/Birds/Images/projectBirdsthumb.jpg)](Descriptions/Birds/Birds.md)
 
-### Others (free time, or smaller ones)
+### Others
 #### Smartcity - Augmented Reality Visualization
 * Programmed an Augmented Reality visualization for 1 month in a team of 4 for [Panasonic](https://www.panasonic.com). Coded on the user interaction and animation sequences.
 * Project featured at the <a href="http://www.ifa-berlin.de/en/" target="_blank">IFA 2016 in Berlin</a> (world's leading trade show for consumer electronics and home appliances).
