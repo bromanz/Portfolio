@@ -13,6 +13,7 @@ I created this repository to collect and summarize many of my finished projects.
 * <a href="https://dl.acm.org/citation.cfm?id=2757736" target="_blank">Public Brewing: a Media Façade with a Mixed Reality Interface</a>
 * <a href="https://dl.gi.de/handle/20.500.12116/8203" target="_blank">ZeroGravity - eine virtuelle Nutzererfahrung in Luft und Wasser</a>
 ## Tech blog articles
+* <a href="https://medium.com/@bromanz/axis-aligned-bounding-tetrahedra-and-octahedra-for-ray-tracing-bounding-volume-hierarchies-683751d84bca" target="_blank">Axis-Aligned Bounding Tetrahedra and Octahedra for Ray Tracing Bounding Volume Hierarchies</a>
 * <a href="https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525" target="_blank">Another View on the Classic Ray-AABB Intersection Algorithm for BVH Traversal</a> (also referenced in the <a href="http://www.realtimerendering.com/intersections.html">Real-Time Rendering Intersection</a> Table)
 * <a href="https://medium.com/@bromanz/how-to-create-awesome-accelerators-the-surface-area-heuristic-e14b5dec6160" target="_blank">How to create awesome accelerators: The Surface Area Heuristic</a>
 * <a href="https://medium.com/@bromanz/simd-sse-unity3d-net-2-0-70f6c911713f" target="_blank">Utilizing SIMD/SSE in Unity3D (.NET 2.0)</a>
