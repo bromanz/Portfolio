@@ -11,7 +11,7 @@ Using a trampoline as a natural 3D user interface with a Head- Mounted Display f
 
 ## My responsibilities
 * Designed and implemented the whole framework to easily create trampoline jumping games with this setup, including (but non-exclusive):
-  * OptiTrack tracking, 
+  * [OptiTrack](https://optitrack.com/) tracking, 
   * Avatar visualization and control (none, IK driven, static, ...),
   * Interfaces to interesting parameters for developers (virtual jump height mapping, average jump duration, current jump height, interaction gestures, forces, velocities, etc.)
 

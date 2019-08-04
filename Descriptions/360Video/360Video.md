@@ -14,7 +14,7 @@ visited zoological gardens in Germany with approximately one million visitors pe
 
 ## My responsibilities
 * Specifying and deciding on technical requirements, e.g. video codecs and platforms. 
-* Coding UI interactions, e.g. opening / closing buttons, images, and videos. This was done from the ground up in Unity3D. 
+* Coding UI interactions, e.g. opening / closing buttons, images, and videos. This was done from the ground up in [Unity3D](https://unity3d.com). 
 * Recording of 360° videos in the zoo with GoPro cameras. For this purpose, we bought a ready-to-use 3D-printed camera rig which provided a mount for six GoPros.
 * Stitching some of our 360° zoo videos with an off-the-shelf video stitching software. Back then, there was still quite some configuration work to be done though.
 
@@ -64,3 +64,5 @@ visited zoological gardens in Germany with approximately one million visitors pe
 ![Displaying information about the user's favourite players](Images/playerinfo.jpg)
 
 [**Back to the top**](#summary)
+
+[**Back to Portfolio**](https://github.com/bromanz/Portfolio#project-pages)

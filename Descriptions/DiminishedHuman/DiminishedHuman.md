@@ -10,7 +10,7 @@ This project addresses the challenge of empathizing with audiovisual sense impai
 * Project was published in <a href="http://dl.acm.org/citation.cfm?id=2875226" target="_blank">Proceedings of the 7th Augmented Human International Conference 2016</a> (sponsored by Google) as one out of 21 selected full papers in 138 submissions (Paper Acceptance Rate: 15%).
 
 ## My responsibilities
-* I did this work as part of my bachelor thesis, so basically everything except the audio part in the paper (I used a different audio system in my thesis).
+* I did this work as part of my bachelor thesis, so basically everything except the audio part in the paper (I used a different audio system in my thesis. First, one within [Unity](https://unity3d.com), and then an application by a fellow student based on [Max/MSP](https://cycling74.com/products/max/)).
 
 ## Further information
 <ul>
@@ -46,3 +46,5 @@ This project addresses the challenge of empathizing with audiovisual sense impai
 ![First person perspective of visual impairments](Images/mixed_reality_sight.png)
 
 [**Back to the top**](#summary)
+
+[**Back to Portfolio**](https://github.com/bromanz/Portfolio#portfolio)

@@ -1,18 +1,18 @@
 # Others (free time, or smaller ones)
 ## Smartcity - Augmented Reality Visualization
-* Programmed an Augmented Reality visualization for 1 month in a team of 4 for Panasonic. Coded on the user interaction and animation sequences.
+* Programmed an Augmented Reality visualization for 1 month in a team of 4 for [Panasonic](https://www.panasonic.com). Coded on the user interaction and animation sequences.
 * Project featured at the <a href="http://www.ifa-berlin.de/en/" target="_blank">IFA 2016 in Berlin</a> (world's leading trade show for consumer electronics and home appliances).
 
 **Panasonic smartcity AR booth**
 
-![Panasonic smartcity AR booth](smartcity-overview.jpg)
+![Panasonic smartcity AR booth](Images/smartcity-overview.jpg)
 
 ## Augmented Reality photo album
-* My vision was to breathe life into my old photos. An Android app enables the user to see different animations or effects on the images, e.g. it is snowing on a winter image or you can see the people breathing.
+* My vision was to breathe life into my old photos. An Android app enables the user to see different animations or effects on the images, e.g. it is snowing on a winter image or you can see the people breathing. Content was hand-made. Used [Vuforia](https://www.vuforia.com/) for image tracking.
 
 **Magic lens exposes my bad barbecue skills**
 
-![Magic lens exposes my bad barbecue skills](ar-image.jpg)
+![Magic lens exposes my bad barbecue skills](Images/ar-image.jpg)
 
 ## Augmented Reality Sound Sandbox: An artistic installation for musical expression
 This installation produces ambient soundscapes using a Lattice Boltzmann based particle simulation running through a deformable landscape.
@@ -20,7 +20,7 @@ Our interface exploits the three-dimensional topology of physical sand, distribu
 hand. The user can explore the landscape by using his or her hands and use spatial gestures via on-body projection to control AR content and further settings.
 
 Although the project itself was a huge effort, it was mainly conducted by Bastian Dewitz as part of his master thesis. However,
-I helped him out with prototypes, visuals, interaction design, camera to projection space calibration and an informal evaluation.
+I helped him out with prototyping interaction concepts, visuals, interaction design, camera to projection space calibration and an informal evaluation.
 
 The project was published in <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">INTETAIN 2017: Intelligent Technologies for Interactive Entertainment</a>
 
@@ -30,28 +30,28 @@ The project was published in <a href="https://link.springer.com/chapter/10.1007/
 
 **Particles flowing over the sand**
 
-![Panasonic smartcity AR booth](Images/sandbox-overview.jpg)
+![Particles flowing over the sand](Images/sandbox-overview.jpg)
 
 **Control menu projected on the user's hand**
 
-![Panasonic smartcity AR booth](Images/sandbox-hand.jpg)
+![Control menu projected on the user's hand](Images/sandbox-hand.jpg)
 
 ## Lecture: Real-Time Rendering
-The goal was to develop a shader and a corresponding ray tracing implementation. I implemented a grass shader with billboards using Unity3D, ShaderLab/CG/HLSL and ray tracing program using <a href="https://developer.nvidia.com/optix">NVIDIA OptiX</a>. Compared both results in a short report.
+The goal was to develop a shader and a corresponding ray tracing implementation. I implemented a grass geometry shader with billboards using Unity3D, ShaderLab/CG/HLSL and ray tracing program using <a href="https://developer.nvidia.com/optix">NVIDIA OptiX</a>. Compared both results in a short report.
 
 **Grass billboard shader with animation in Unity3D**
 
 ![Grass billboard shader with animation in Unity3D](Images/gras-shader-unity.jpg)
 
 ## LeapMotion - Rock Paper Scissors - Proof of Concept
-Coded small Proof of concept when the first version of LeapMotion was released in 2013.
+Coded small Proof of concept when the first version of [LeapMotion](https://www.leapmotion.com/) was released in 2013. This was done with a small JavaScript library provided by LeapMotion.
 
 **[Video: LeapMotion - Rock Paper Scissors - Proof of Concept](https://www.youtube.com/embed/I8YFMh3L_GA)**
 
 [![Video: LeapMotion - Rock Paper Scissors - Proof of Concept](http://img.youtube.com/vi/I8YFMh3L_GA/0.jpg)](https://www.youtube.com/embed/I8YFMh3L_GA)
 
 ## Java Robot programming - Race IT
-We built and programmed a robot driving in a circuit with <a href="http://www.lejos.org/nxj.php" target="_blank">LeJOS, Java for Lego Mindstorms</a>. It had light, ultrasonic and RFID sensors to recognize the route, distances to obstacles and the type of obstacles it had to overcome. I programmed the ultrasonic sensor, the algorithm to drive over a seesaw, and our scanning and planning algorithm.
+We built and programmed a robot driving in a circuit with <a href="http://www.lejos.org/nxj.php" target="_blank">LeJOS, Java for Lego Mindstorms</a>. It had light, ultrasonic and RFID sensors to recognize the route, distances to obstacles and the type of obstacles it had to overcome. I programmed the ultrasonic sensor, the algorithm to drive over a seesaw, and our scanning and planning algorithm from scratch.
 
 **[Video: Java Robot programming - Race IT](https://www.youtube.com/embed/H7a-Dd6fPmQ)**
 
@@ -93,8 +93,8 @@ Actually, Blitzbasic got me into programming at the age of around 10-13, I can't
 ## Autodesk Maya shorts
 We created two short movies with Maya:
 <ol>
-	<li>The goal of the first one was to capture the atmosphere of a graveyard scenery.</li>
-	<li>The goal of the second one was to show an abstract chain reaction between multiple objects.</li>
+	<li>The goal of the first one was to capture the atmosphere of a graveyard scenery (the assets in this short movie were bought)</li>
+	<li>The goal of the second one was to show an abstract chain reaction between multiple objects (hand-made)</li>
 </ol>
 
 **[Video: Maya Graveyard scene](https://www.youtube.com/embed/j-n6WaSx484)**
@@ -109,6 +109,6 @@ We created two short movies with Maya:
 (will add them when I'm finding the footage and also time for it)
 * Android Quiz App programmed with <a href="https://www.ludei.com/cocoonjs/" target="_blank">CocoonJS</a>
 * Web pong (HTML, CSS, JS)
-* UnrealTournament map I created (UnrealEditor)
+* UnrealTournament maps I created (UnrealEditor)
 
 [**Back to the top**](#summary)

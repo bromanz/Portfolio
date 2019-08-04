@@ -25,9 +25,9 @@ In addition, a VR application was developed. This application allowed the user t
 * Project was also published in <a href="http://dl.acm.org/citation.cfm?id=2757736" target="_blank">Proceedings of the 4th International Symposium on Pervasive Displays</a>.
 
 ## My responsibilities
-* Creating virtual environment
-* Coding animations and effects of dwarfs and other elements
-* Programming interface to real-machine inputs and their implications on the virtual world
+* Creating virtual environment in the machine.
+* Coding animations and effects of dwarfs and other elements. We got many animations off-the-shelf from [Mixamo](https://www.mixamo.com/) and added them via Mecanim to [Unity](https://unity3d.com).
+* Programming interface to real-machine inputs and their implications on the virtual world. We had both the machine and apps running in the same WiFi, and the machine was sending out information about its current state via TCP connection. That way, the machine could sync with the AR visualization.
 
 ## Further information
 <ul>
@@ -68,3 +68,5 @@ In addition, a VR application was developed. This application allowed the user t
 ![User exploring the virtual factory inside the machine](Images/passive_user_exploring.jpg)
 
 [**Back to the top**](#summary)
+
+[**Back to Portfolio**](https://github.com/bromanz/Portfolio#portfolio)
