@@ -1,9 +1,10 @@
 # Portfolio
-I created this repository to collect and summarize many of my finished projects. It mainly includes projects I did during my studies or in my free-time (work experience mostly not included, as they require privacy from the companies I've been working for so far). Besides the projects listed here, I also have some public repositories on my GitHub account (mainly experiments, contributions, or work in progress though), but feel free to check them out too if you're interested. Below you will find four categories:
+I created this repository to collect and summarize many of my finished projects. It mainly includes projects I did during my studies or in my free-time (work experience mostly not included, as they require privacy from the companies I've been working for so far). Besides the projects listed here, I also have some public repositories on my GitHub account (mainly experiments, contributions, or work in progress though), but feel free to check them out too if you're interested. Below you will find five categories:
 1. [**Papers**](#papers) - Here I put all the links to my published scientific papers and articles 
 2. [**Tech blog posts**](#tech-blog-articles) - From time to time I share some collected knowledge about a topic or explain some ideas I had. 
 3. [**Talks**](#talks) - Official public talks I've given. 
-4. [**Project pages**](#project-pages) - These link to more specific project information including a summary, achievements, my responsibilities in these projects, etc.
+4. [**Coding-Competitions**](#coding-competitions) - Though not very active in this area right now, I collected my achievements there.
+5. [**Project pages**](#project-pages) - These link to more specific project information including a summary, achievements, my responsibilities in these projects, etc.
 
 ## Papers
 * <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment</a>
@@ -20,6 +21,11 @@ I created this repository to collect and summarize many of my finished projects.
 ## Talks
 * <a href="https://unite.unity.com/de/2018/berlin/autotech" target="_blank">Unite Berlin 2018 - Closing the Loop: Unity as a Tool for Vehicle Development</a>
 <img src="https://github.com/bromanz/Portfolio/blob/master/Descriptions/Talks/unite2018.jpg" width="512">
+
+## Coding-Competitions
+* ~Top 3% at Google Code Jam 2019 
+* ~Top 7% on LeetCode's Global Ranking
+* ~Top 12% at Google Hash Code 2017
 
 ## Project pages
 ### [Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/AccelConeTracing.md) ###
