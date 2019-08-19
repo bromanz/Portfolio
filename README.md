@@ -7,6 +7,7 @@ I created this repository to collect and summarize many of my finished projects.
 5. [**Project pages**](#project-pages) - These link to more specific project information including a summary, achievements, my responsibilities in these projects, etc.
 
 ## Papers
+* Evaluation of Acceleration Structures for Cone Tracing Traversal - To appear in Journal of Computer Graphics Techniques (JCGT)
 * <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment</a>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression</a>
 * <a href="https://dl.acm.org/citation.cfm?id=2933559" target="_blank">Semi-Automatic Camera and Switcher Control for Live Broadcast</a> ; <a href="https://www.fktg.org/halbautomatische-steuerung-von-kamera-und-bildmischer-bei-live-uebertragungen" target="_blank">Halbautomatische Steuerung von Kamera und Bildmischer bei Live-Übertragungen</a>
