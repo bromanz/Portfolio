@@ -15,6 +15,7 @@ Volume Hierarchy and k-dimensional-tree were implemented to analyze the applicab
 structures. Accordingly, this project compares ray and cone tracing performance with these accelerators.
 
 ## Achievements
+* Paper to appear in Journal of Computer Graphics Techniques (JCGT)
 * Created a GPU ray- and cone tracing framework in Unity3D in a team of two.
 * Building of kd-tree and SBVH (Stich et al.) in Unity3D on the CPU from scratch.
 * Implemented various traversal algorithms for rays and cones on the GPU from scratch.
