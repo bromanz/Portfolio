@@ -1,4 +1,4 @@
-# Acceleration Structures for Cone Tracing
+# Performance Evaluation of Acceleration Structures for Cone Tracing Traversal
 ## Summary
 This paper focuses on the technical question of how to apply acceleration structures used for polygonal scenes from ray to cone tracing. We examine cone traversal performance for k-d trees and bounding volume hierarchies. Our results demonstrate which accelerator to prefer for cone tracing given corresponding apertures, and provide an estimation when cones of varying sizes could replace a specified number of ray samples with the same traversal performance but without subsampling.
 
@@ -12,4 +12,5 @@ This paper focuses on the technical question of how to apply acceleration struct
 * This was my master thesis, so basically everything.
 
 ## Media
+[![Acceleration Structures for Cone Tracing](Images/projectAccConeTracingthumb.png)]
 
