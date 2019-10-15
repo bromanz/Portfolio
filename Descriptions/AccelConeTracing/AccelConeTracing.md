@@ -12,5 +12,4 @@ This paper focuses on the technical question of how to apply acceleration struct
 * This was my master thesis, so basically everything.
 
 ## Media
-[Acceleration Structures for Cone Tracing](Images/projectAccConeTracingthumb.png)
-
+![Acceleration Structures for Cone Tracing](Images/projectAccConeTracingthumb.png)
