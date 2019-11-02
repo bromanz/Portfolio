@@ -1,12 +1,12 @@
 # Portfolio
-I created this repository to collect and summarize many of my finished projects. It mainly includes projects I did during my studies or in my free-time (work experience mostly not included, as they require privacy from the companies I've been working for so far). Besides the projects listed here, I also have some public repositories on my GitHub account (mainly experiments, contributions, or work in progress though), but feel free to check them out too if you're interested. Below you will find five categories:
-1. [**Papers**](#papers) - Here I put all the links to my published scientific papers and articles 
-2. [**Tech blog posts**](#tech-blog-articles) - From time to time I share some collected knowledge about a topic or explain some ideas I had. 
-3. [**Talks**](#talks) - Official public talks I've given. 
-4. [**Coding-Competitions**](#coding-competitions) - Though not very active in this area right now, I collected my achievements there.
-5. [**Project pages**](#project-pages) - These link to more specific project information including a summary, achievements, my responsibilities in these projects, etc.
+I created this repository to collect and summarize many of my finished projects. It mainly includes projects I did during my studies or in my free-time (work experience mostly not included, because of privacy reasons from the companies I've been working for so far). Besides the projects listed here, I also have some public repositories on my GitHub account (mainly experiments, contributions, or work in progress though, but feel free to check them out too if you're interested). Below you will find five categories:
+1. [**Publications**](#publications) - Here I put all the links to my published scientific papers and articles 
+2. [**Technical Blog Posts**](#tech-blog-articles) - From time to time I share some collected knowledge about a topic or explain some ideas I had
+3. [**Talks**](#talks) - Official public talks I've given
+4. [**Coding Competitions**](#coding-competitions) - Though not very active in this area right now, I collected my achievements there.
+5. [**Projects**](#project-pages) - These project pages link to more specific information including a summary, achievements, my responsibilities in these projects, etc.
 
-## Papers
+## Publications
 * Evaluation of Acceleration Structures for Cone Tracing Traversal - To appear in Journal of Computer Graphics Techniques (JCGT)
 * <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment</a>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression</a>
@@ -14,7 +14,7 @@ I created this repository to collect and summarize many of my finished projects.
 * <a href="https://dl.acm.org/citation.cfm?id=2875226" target="_blank">Empathizing Audiovisual Sense Impairments: Interactive Real-Time Illustration of Diminished Sense Perception</a>
 * <a href="https://dl.acm.org/citation.cfm?id=2757736" target="_blank">Public Brewing: a Media Façade with a Mixed Reality Interface</a>
 * <a href="https://dl.gi.de/handle/20.500.12116/8203" target="_blank">ZeroGravity - eine virtuelle Nutzererfahrung in Luft und Wasser</a>
-## Tech blog articles
+## Technical Blog Posts
 * <a href="https://medium.com/@bromanz/axis-aligned-bounding-tetrahedra-and-octahedra-for-ray-tracing-bounding-volume-hierarchies-683751d84bca" target="_blank">Axis-Aligned Bounding Tetrahedra and Octahedra for Ray Tracing Bounding Volume Hierarchies</a>
 * <a href="https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525" target="_blank">Another View on the Classic Ray-AABB Intersection Algorithm for BVH Traversal</a> (also referenced in the <a href="http://www.realtimerendering.com/intersections.html">Real-Time Rendering Intersection</a> Table)
 * <a href="https://medium.com/@bromanz/how-to-create-awesome-accelerators-the-surface-area-heuristic-e14b5dec6160" target="_blank">How to create awesome accelerators: The Surface Area Heuristic</a>
@@ -23,21 +23,21 @@ I created this repository to collect and summarize many of my finished projects.
 * <a href="https://unite.unity.com/de/2018/berlin/autotech" target="_blank">Unite Berlin 2018 - Closing the Loop: Unity as a Tool for Vehicle Development</a>
 <img src="https://github.com/bromanz/Portfolio/blob/master/Descriptions/Talks/unite2018.jpg" width="512">
 
-## Coding-Competitions
+## Coding Competitions
 * ~Top 3% at Google Code Jam 2019 
 * ~Top 7% on LeetCode's Global Ranking
 * ~Top 12% at Google Hash Code 2017
 
-## Project pages
+## Projects
 ### [Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/AccelConeTracing.md) ###
 
-(Computer Graphics, Ray Tracing, kd-tree, Bounding Volume Hierarchies)
+(Computer Graphics, Ray Tracing, kd-tree, Bounding Volume Hierarchy)
 
 [![Acceleration Structures for Cone Tracing](Descriptions/AccelConeTracing/Images/projectAccConeTracingthumb.png)](Descriptions/AccelConeTracing/AccelConeTracing.md)
 
 ### [Superjump - Trampoline Jumping with a Head-Mounted Display in Virtual Reality](Descriptions/Superjump/Superjump.md) ###
 
-(VR, 3D-user-interaction, Framework)
+(VR, 3D User Interaction, Framework)
 
 [![Superjump](Descriptions/Superjump/Images/projectSuperjumpthumb.jpg)](Descriptions/Superjump/Superjump.md)
 
@@ -55,25 +55,25 @@ I created this repository to collect and summarize many of my finished projects.
 
 ### [Zero Gravity - A Virtual Reality experience in air and water](Descriptions/ZeroGravity/ZeroGravity.md) ###
 
-(VR, Multimodal interaction)
+(VR, Multimodal Interaction)
 
 [![Zero Gravity](Descriptions/ZeroGravity/Images/projectZeroGravitythumb.jpg)](Descriptions/ZeroGravity/ZeroGravity.md)
 
 ### [Immersive 360° Videos - Virtual Reality Zoo Visit and Immersive Journalism](Descriptions/360Video/360Video.md) ###
 
-(VR, HCI)
+(VR, Human-Computer-Interaction)
 
 [![Immersive 360° videos](Descriptions/360Video/Images/project360Videothumb.jpg)](Descriptions/360Video/360Video.md)
 
 ### [Virtual Studio - Semi-Automatic Camera and Switcher Control](Descriptions/VirtualStudio/VirtualStudio.md) ###
 
-(Audio processing, Expert system, Networking)
+(Audio Processing, Expert System, Networking)
 
 [![Virtual Studio](Descriptions/VirtualStudio/Images/projectVSthumb.jpg)](Descriptions/VirtualStudio/VirtualStudio.md)
 
 ### [Birds - An interactive, chirping media installation](Descriptions/Birds/Birds.md) ###
 
-(Computer graphics, Media Installation, Agents)
+(Computer Graphics, Media Installation, Agents)
 
 [![Birds](Descriptions/Birds/Images/projectBirdsthumb.jpg)](Descriptions/Birds/Birds.md)
 
