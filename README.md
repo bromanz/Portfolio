@@ -8,12 +8,12 @@ I created this repository to collect and summarize many of my finished projects.
 
 ## Publications
 * Evaluation of Acceleration Structures for Cone Tracing Traversal - To appear in Journal of Computer Graphics Techniques (JCGT)
-* <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment</a>
-* <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression</a>
-* <a href="https://dl.acm.org/citation.cfm?id=2933559" target="_blank">Semi-Automatic Camera and Switcher Control for Live Broadcast</a> ; <a href="https://www.fktg.org/halbautomatische-steuerung-von-kamera-und-bildmischer-bei-live-uebertragungen" target="_blank">Halbautomatische Steuerung von Kamera und Bildmischer bei Live-Übertragungen</a>
-* <a href="https://dl.acm.org/citation.cfm?id=2875226" target="_blank">Empathizing Audiovisual Sense Impairments: Interactive Real-Time Illustration of Diminished Sense Perception</a>
-* <a href="https://dl.acm.org/citation.cfm?id=2757736" target="_blank">Public Brewing: a Media Façade with a Mixed Reality Interface</a>
-* <a href="https://dl.gi.de/handle/20.500.12116/8203" target="_blank">ZeroGravity - eine virtuelle Nutzererfahrung in Luft und Wasser</a>
+* <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment (INTETAIN 2018)</a>
+* <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression (INTETAIN 2018)</a>
+* <a href="https://dl.acm.org/citation.cfm?id=2933559" target="_blank">Semi-Automatic Camera and Switcher Control for Live Broadcast (TVX 2016)</a> ; <a href="https://www.fktg.org/halbautomatische-steuerung-von-kamera-und-bildmischer-bei-live-uebertragungen" target="_blank">Halbautomatische Steuerung von Kamera und Bildmischer bei Live-Übertragungen (Fernseh- und Kinotechnische Gesellschaft e.V.)</a>
+* <a href="https://dl.acm.org/citation.cfm?id=2875226" target="_blank">Empathizing Audiovisual Sense Impairments: Interactive Real-Time Illustration of Diminished Sense Perception (AH 2016)</a>
+* <a href="https://dl.acm.org/citation.cfm?id=2757736" target="_blank">Public Brewing: a Media Façade with a Mixed Reality Interface (PerDis 2015)</a>
+* <a href="https://dl.gi.de/handle/20.500.12116/8203" target="_blank">ZeroGravity - eine virtuelle Nutzererfahrung in Luft und Wasser (MuC 2014)</a>
 ## Technical Blog Posts
 * <a href="https://medium.com/@bromanz/axis-aligned-bounding-tetrahedra-and-octahedra-for-ray-tracing-bounding-volume-hierarchies-683751d84bca" target="_blank">Axis-Aligned Bounding Tetrahedra and Octahedra for Ray Tracing Bounding Volume Hierarchies</a>
 * <a href="https://medium.com/@bromanz/another-view-on-the-classic-ray-aabb-intersection-algorithm-for-bvh-traversal-41125138b525" target="_blank">Another View on the Classic Ray-AABB Intersection Algorithm for BVH Traversal</a> (also referenced in the <a href="http://www.realtimerendering.com/intersections.html">Real-Time Rendering Intersection</a> Table)
