@@ -7,7 +7,7 @@ I created this repository to collect and summarize many of my finished projects.
 5. [**Projects**](#project-pages) - These project pages link to more specific information including a summary, achievements, my responsibilities in these projects, etc.
 
 ## Publications
-* <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Performance Evaluation of Acceleration Structures for Cone Tracing Traversal (JCGT 2020)</a>
+* <a href="http://jcgt.org/published/0009/01/01/" target="_blank">Performance Evaluation of Acceleration Structures for Cone Tracing Traversal (JCGT 2020)</a>
 * <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-73062-2_8" target="_blank">Trampoline Jumping with a Head-Mounted Display in Virtual Reality Entertainment (INTETAIN 2018)</a>
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-73062-2_5" target="_blank">AR Sound Sandbox: A Playful Interface for Musical and Artistic Expression (INTETAIN 2018)</a>
 * <a href="https://dl.acm.org/citation.cfm?id=2933559" target="_blank">Semi-Automatic Camera and Switcher Control for Live Broadcast (TVX 2016)</a> ; <a href="https://www.fktg.org/halbautomatische-steuerung-von-kamera-und-bildmischer-bei-live-uebertragungen" target="_blank">Halbautomatische Steuerung von Kamera und Bildmischer bei Live-Übertragungen (Fernseh- und Kinotechnische Gesellschaft e.V.)</a>
