@@ -25,7 +25,7 @@ I created this repository to collect and summarize many of my finished projects.
 
 ## Coding Competitions
 * ~Top 3% at Google Code Jam 2019 
-* ~Top 7% on LeetCode's Global Ranking
+* ~Top 5% on LeetCode's Global Ranking
 * ~Top 12% at Google Hash Code 2017
 
 ## Projects
